@@ -170,23 +170,6 @@ start dashboard/Dashboard.pbix
 
 ---
 
-## 📁 Repository Structure
-
-pizzeria-sales-optimization-platform/
-├── dashboard/
-│   └── Dashboard.pbix
-├── sql/
-│   ├── tables_creation.sql
-│   ├── ddl_and_dml.sql
-│   ├── insertion.sql
-│   └── queries.sql
-├── report/
-│   ├── Report.pdf
-│   └── Sales_Optimization_Platform_for_Pizzeria.pptx
-└── README.md
-
----
-
 ## 👤 Author
 
 Muhammad Tahir  
