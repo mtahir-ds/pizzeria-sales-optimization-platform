@@ -131,7 +131,7 @@ SQL files are in the /sql folder:
 
 ### 2️⃣ Clone the Repository
 
-git clone https://github.com/MuhammadTahir-1-9-4/pizzeria-sales-optimization-platform.git
+git clone https://github.com/mtahir-ds/pizzeria-sales-optimization-platform.git
 cd pizzeria-sales-optimization-platform
 
 ---
